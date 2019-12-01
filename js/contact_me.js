@@ -19,7 +19,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/rlkorea@kakao.com",
+                url: "//formspree.io/xledbopd",
                 method: "POST",
                 data: {
                     name: name,

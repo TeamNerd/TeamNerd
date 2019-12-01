@@ -1,5 +1,6 @@
 url: https://teamnerd.github.io
-baseurl: /Portfolio-New/
+baseurl: 
+#/Portfolio-New/
 
 # Site settings
 title: Awesome Title

@@ -10,6 +10,5 @@ alt: image-alt
 project-date: December 2019
 client: Start Bootstrap
 category: Web Development
-description: 팀에 들어오는 방법.너무 어수선하지않도록 2주간의 term줘야할듯!
-설마줄바굼안됨?
+description: 팀에 들어오는 방법.너무 어수선하지않도록 2주간의 term줘야할듯!  
 ---

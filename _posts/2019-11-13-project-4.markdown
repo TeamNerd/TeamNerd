@@ -3,7 +3,7 @@ title: Trello Tutorial
 subtitle: How to use Trello for cooperation?
 layout: default
 modal-id: 4
-date: 2019-11-03
+date: 2019-11-13
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt

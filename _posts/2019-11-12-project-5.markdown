@@ -3,7 +3,7 @@ title: Github Tutorial
 subtitle: How to use Github for cooperation?
 layout: default
 modal-id: 5
-date: 2019-11-02
+date: 2019-11-12
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt

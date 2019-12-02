@@ -3,7 +3,7 @@ title: Slack Tutorial
 subtitle: How to use Slack for cooperation?
 layout: default
 modal-id: 3
-date: 2019-11-30
+date: 2019-11-04
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt

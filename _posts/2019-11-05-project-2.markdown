@@ -3,11 +3,11 @@ title: How to participate our projects
 subtitle: You'll be wondering how to get involved in this interesting project. So we made a guide to participate easily.
 layout: default
 modal-id: 2
-date: 2019-12-01
+date: 2019-11-05
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: December 2019
+project-date: November 2019
 writer: Alex
 manager: Alex
 description: github<br />git<br /> trello <br /> slack <br />

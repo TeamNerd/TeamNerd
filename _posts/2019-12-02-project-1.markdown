@@ -3,7 +3,7 @@ title: How to join our Team!
 subtitle: First Thing you have to read.
 layout: default
 modal-id: 1
-date: 2019-12-02
+date: 2019-12-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt

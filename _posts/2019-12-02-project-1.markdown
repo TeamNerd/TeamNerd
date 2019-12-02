@@ -1,4 +1,4 @@
-﻿---
+---
 title: How to join our Team!
 subtitle: First Thing you have to read.
 layout: default

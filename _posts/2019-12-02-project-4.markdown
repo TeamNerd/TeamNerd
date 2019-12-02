@@ -1,0 +1,14 @@
+---
+title: Trello Tutorial
+subtitle: How to use Trello 
+layout: default
+modal-id: 4
+date: 2019-12-02
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+writer: Alex
+manager: Alex
+description: Trello
+---

@@ -1,9 +1,9 @@
 ---
 title: How to participate our projects
-subtitle: 프로젝트 참여 방법
+subtitle: You'll be wondering how to get involved in this interesting project. So we made a guide to participate easily.
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2019-12-02
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt

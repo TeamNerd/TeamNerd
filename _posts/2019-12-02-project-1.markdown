@@ -2,7 +2,7 @@
 title: How to join our Team!
 subtitle: We've already thought about what you want, and we think we can reach it.
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2019-12-02
 img: dreams.png
 thumbnail: dreams-thumbnail.png

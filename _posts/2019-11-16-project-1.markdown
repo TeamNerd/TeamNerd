@@ -1,6 +1,6 @@
----
+﻿---
 title: How to join our Team!
-subtitle: We've already thought about what you want, and we think we can reach it.
+subtitle: 
 layout: default
 modal-id: 1
 date: 2019-11-16
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: 팀에 들어오는 방법.너무 어수선하지않도록 2주간의 term줘야할듯! <br /> asd
+description: We've already thought about what you want, and we think we can reach it.<br />팀에 들어오는 방법.너무 어수선하지않도록 2주간의 term줘야할듯! <br /> asd
 ---

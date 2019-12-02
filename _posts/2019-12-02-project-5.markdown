@@ -9,6 +9,6 @@ thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: December 2019
 writer: Alex
-category: Alex
+manager: Alex
 description: Github
 ---

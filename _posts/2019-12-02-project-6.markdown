@@ -2,7 +2,7 @@
 title: Git Tutorial
 subtitle: How to use Git for cooperation?
 layout: default
-modal-id: 6
+modal-id: 1
 date: 2019-12-02
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png

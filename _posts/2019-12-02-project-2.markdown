@@ -1,4 +1,4 @@
-﻿---
+---
 title: How to participate our projects
 subtitle: 프로젝트 참여 방법
 layout: default

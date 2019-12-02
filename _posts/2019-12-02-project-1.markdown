@@ -1,15 +1,17 @@
 ---
-title: Slack Tutorial
-subtitle: The First Tutorial you have to do.
+title: How to join our Team!
+subtitle: First Thing you have to read.
 layout: default
 modal-id: 1
 date: 2019-12-02
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: December 2019
 client: Start Bootstrap
 category: Web Development
-description: 안녕하세요. 편의상 설명은 한글로 적겠습니다.
+description: 팀에 들어오는 방법.
+
+너무 어수선하지않도록 2주간의 term줘야할듯!
 
 ---

@@ -1,0 +1,15 @@
+---
+title: Git Tutorial
+subtitle: How to use Git for cooperation?
+layout: default
+modal-id: 6
+date: 2019-12-02
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: November 2019
+writer: Alex
+manager: Alex
+description: Git
+
+---

@@ -2,12 +2,12 @@
 title: Github Tutorial
 subtitle: How to use Github for cooperation?
 layout: default
-modal-id: 2
-date: 2019-12-02
+modal-id: 5
+date: 2019-11-28
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: December 2019
+project-date: November 2019
 writer: Alex
 manager: Alex
 description: Github

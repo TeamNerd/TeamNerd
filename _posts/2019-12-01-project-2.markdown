@@ -2,8 +2,8 @@
 title: How to participate our projects
 subtitle: You'll be wondering how to get involved in this interesting project. So we made a guide to participate easily.
 layout: default
-modal-id: 5
-date: 2019-12-02
+modal-id: 2
+date: 2019-12-01
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt

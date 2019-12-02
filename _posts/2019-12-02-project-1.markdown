@@ -1,15 +1,14 @@
----
-title: Git Tutorial
-subtitle: How to use Git for cooperation?
+﻿---
+title: How to join our Team!
+subtitle: We've already thought about what you want, and we think we can reach it.
 layout: default
 modal-id: 1
 date: 2019-12-02
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: dreams.png
+thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: December 2019
 writer: Alex
 manager: Alex
-description: Git
-
+description: 팀에 들어오는 방법.너무 어수선하지않도록 2주간의 term줘야할듯! <br /> asd
 ---

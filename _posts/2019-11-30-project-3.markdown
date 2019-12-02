@@ -2,12 +2,12 @@
 title: Slack Tutorial
 subtitle: How to use Slack for cooperation?
 layout: default
-modal-id: 4
-date: 2014-07-16
+modal-id: 3
+date: 2019-11-30
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: December 2019
+project-date: November 2019
 writer: Alex
 manager: Alex
 description: slack

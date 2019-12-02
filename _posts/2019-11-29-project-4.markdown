@@ -2,12 +2,12 @@
 title: Trello Tutorial
 subtitle: How to use Trello for cooperation?
 layout: default
-modal-id: 3
-date: 2019-12-02
+modal-id: 4
+date: 2019-11-29
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: December 2019
+project-date: November 2019
 writer: Alex
 manager: Alex
 description: Trello

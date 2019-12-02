@@ -1,4 +1,4 @@
----
+﻿---
 title: How to join our Team!
 subtitle: First Thing you have to read.
 layout: default
@@ -8,7 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: December 2019
-client: Start Bootstrap
-category: Web Development
+writer: Alex
+manager: Alex
 description: 팀에 들어오는 방법.너무 어수선하지않도록 2주간의 term줘야할듯! <br /> asd
 ---

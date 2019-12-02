@@ -1,6 +1,6 @@
 ---
 title: Trello Tutorial
-subtitle: How to use Trello 
+subtitle: How to use Trello for cooperation?
 layout: default
 modal-id: 4
 date: 2019-12-02

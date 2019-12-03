@@ -10,5 +10,6 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: You'll be wondering how to get involved in this interesting project. So we made a guide to participate easily. <br /> github<br />git<br /> trello <br /> slack <br />
+description: You'll be wondering how to get involved in this interesting project. So we made a guide to participate easi
+ly. <br /> github<br />git<br /> trello <br /> slack <br />
 ---

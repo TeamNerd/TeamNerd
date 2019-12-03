@@ -4,8 +4,8 @@ subtitle: How to use Github for cooperation?
 layout: default
 modal-id: 5
 date: 2019-11-12
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: github_1.png
+thumbnail: github.png
 alt: image-alt
 project-date: November 2019
 writer: Alex

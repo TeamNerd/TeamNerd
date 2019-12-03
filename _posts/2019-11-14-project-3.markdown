@@ -4,8 +4,8 @@ subtitle: How to use Slack for cooperation?
 layout: default
 modal-id: 3
 date: 2019-11-14
-img: slack.PNG
-thumbnail: slack_logo.png
+img: slack_logo.png
+thumbnail: slack.PNG
 alt: image-alt
 project-date: November 2019
 writer: Alex

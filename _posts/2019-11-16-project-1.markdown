@@ -1,6 +1,6 @@
 ﻿---
 title: How to join our Team!
-subtitle: 
+subtitle: We are so glad to meet you!
 layout: default
 modal-id: 1
 date: 2019-11-16
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: We've already thought about what you want, and we think we can reach it.<br />팀에 들어오는 방법.너무 어수선하지않도록 2주간의 term줘야할듯! <br /> asd
+description: 안녕하세요! 팀 너드는 당신을 환영합니다. <br />저희는 배 좀 곯으면 어때 재밌으면 됐지를 모티브로 모인 사람들입니다. <br />저희는 재미로 연구하고 재미로 개발합니다. 밤새 개발도 하고, 자다 일어나서 회의를 진행합니다. <br />저희중에 전문가는 없습니다. 잘하는게 중요한가요? 잘하는 기준은 뭔가요? <br />지금까지 인공지능이 발전할 수 있던 또 다른 토대는 개방에 있다고 생각합니다. <br /><br />디자이너도 인공지능을 개발하고, 학생도 인공지능을 개발하고, <br />우리는 비전공자든 전공자든 미쳐있다면 할 수 있다는 것을 보여주기 위해 모였습니다. <br /><br />많은 제안 메일을 씹히고, 권위자에게 인신 공격을 당하며, 업신여김을 당하면서도, <br />저희는 자신의 연구를 위해 치킨을 튀기고 편의점 알바를 하면서 연구를 진행했습니다. <br /><br />우리는 아무 차별 없이 인공지능을 좋아하는 모두와 함께하고 싶습니다. <br />인공지능에 대한 넘치는 열정을 가진 많은 연구원들을 환영합니다.<br /> <br />
 ---

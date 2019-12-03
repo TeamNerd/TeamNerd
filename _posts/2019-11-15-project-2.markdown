@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: You'll be wondering how to get involved in this interesting project. So we made a guide to participate easily. <br /> github<br />git<br /> trello <br /> slack <br />저희는 지금 협업툴로 Slack, Trello, Github, Git 을 사용하고 있습니다. <br />하나라도 낯설 분들을 위해 작은 튜토리얼들을 준비했으니 너무 걱정마세요.<br />간단하게 설명을 드리자면, Slack은 팀원간의 소통을 위한 채팅방입니다.<br /> 다음 챕터부터는 실제 참여를 위한 실제 튜토리얼들을 준비했습니다! <br />
+description: You'll be wondering how to get involved in this interesting project. So we made a guide to participate easily. <br /> github<br />git<br /> trello <br /> slack <br />저희는 지금 협업툴로 Slack, Trello, Github, Git 을 사용하고 있습니다. <br />하나라도 낯설 분들을 위해 작은 튜토리얼들을 준비했으니 너무 걱정마세요.<br />간단하게 설명을 드리자면, Slack은 팀원간의 소통을 위한 채팅방입니다.<br /> Trello는 프로젝트의 계획, 진행상황, 필요작업들에 대한 상세를 위해 다룹니다. <br /> Github는 Git을 통해 프로젝트를 관리, 코드리뷰등을 진행하고, Git을 사용해 프로젝트를 진행하게 됩니다.<br /><br /> 다음 챕터부터는 실제 참여를 위한 실제 튜토리얼들을 준비했습니다! <br />
 ---

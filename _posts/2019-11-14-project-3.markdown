@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: slack
+description: slack <img src="https://github.com/TeamNerd/teamnerd.github.io/blob/master/img/portfolio/yes.PNG" alt="My Image">
 ---

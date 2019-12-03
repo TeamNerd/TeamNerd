@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: slack <img src="/img/portfolio/yes.PNG" width="90%">aa</img>
+description: <h2> Slack </h2> <br /><img src="/img/portfolio/slack.PNG" width="90%">slack image</img><br /><br />Slack은 팀의 대화와 프로젝트 아이디어를 짜고, 회의를 진행할 수 있는 툴입니다.<br />Slack을 처음 접하셨다면 다음 아래의 초대 링크를 클릭합니다.<br /><br /> https://join.slack.com/t/teamnerd-workspace/shared_invite/enQtODQ0OTE3MzEwNjU4LWU1MGUxMjczOGQ5MDNmMTJlODRmYjg5YTlhM2QwZWEyMDA1ZDE3MDgzZjJlOWI2ZjczZGVkNTNmZTY0MmY0ZTg<br /><br /><br /><img src="/img/portfolio/slack_1.PNG" width="90%">slack image</img><br />이메일을 입력후 나오는 페이지입니다. 이후 이메일 인증을 완료하면 다음과 같이 나오게 됩니다.<br /><br /><img src="/img/portfolio/slack_2.PNG" width="90%">slack image</img><br />Slack은 직관적으로 잘만들어졌기 때문에, 큰 설명이 필요 없지만, 좀 더 이해가 필요하다면,<br />나동빈님의 블로그를 첨부합니다. https://ndb796.tistory.com/195?category=987004<br />
 ---

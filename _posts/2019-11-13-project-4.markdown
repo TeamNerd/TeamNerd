@@ -4,8 +4,8 @@ subtitle: How to use Trello for cooperation?
 layout: default
 modal-id: 4
 date: 2019-11-13
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: trello_1.png
+thumbnail: trello.png
 alt: image-alt
 project-date: November 2019
 writer: Alex

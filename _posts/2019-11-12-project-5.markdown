@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: Github
+description: 안녕하세요. Alex입니다.<br /> 이번 시간에는 Github와 Git에대해 조금 알아보겠습니다.<br />Git과 Github를 다뤄보지 않으신 분들이라면 앞은 팀원끼리의 소통을 위해<br />사용됐다면, Git과 Github는 코드를 통해 소통하는 방법이기 때문에<br />조금 어려움을 겪으실 수 있습니다. 하지만 이를 알아두면 전세계<br />모든 개발자들과 코드로 소통하는 법을 알게 될테니 조금만 화이팅하시길 바랍니다!<br /><br />Git은 여러 사람이 한 프로젝트를 하면서 기능을 추가하고, 변형하고 하는 등<br />이를 프로젝트 분산 버전 관리라고 합니다. 꼼꼼한 버전 관리만이 전체의 효율을 <br />보았을 때 높여주고, 안전하게 프로젝트가 진행될 수 있습니다. <br /><br />이를 좀더 도와주는 것이 Github 입니다.<br />Github는 프로젝트의 저장소 역할을 하는 repository를 제공하고,<br />여러 버전의 가지인 branch를 쉽게 통합하거나 관리할 수 있습니다. <br />심지어 코드 리뷰까지 가능해 저는 협업을 할 때, 다른 협업 툴보다 그냥 깃허브 <br />하나로 모든 것을 진행했었습니다. <br />사실, Github를 하기 위해선 Git과 함께 전반적인 면을 알아야 할 수 있기 때문에<br /><br />이로써, 모든 개요는 끝났고, Github에 대한 좀더 자세한 설명은 링크를 남기도록 하겠습니다.<br /><br /><a href= https://tagilog.tistory.com/377>Github</a><br />위의 링크를 읽고도 이해가 안된다해도 포기하지마세요!<br />아직 Git의 대한 개념이 잘 안와닿아서 그런 걸 겁니다.<br />다음 Git Tutorial에서 좀 더 살펴보도록 할게요!<br />
 ---

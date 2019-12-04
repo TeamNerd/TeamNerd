@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2019
 writer: Alex
 manager: Alex
-description: 안녕하세요! Alex 입니다.<br /> 이번 시간에는 Git에 대해 배워보도록 하겠습니다.<br />Github는 조금 보셨나요? 일단 저희 Github Page를 한번 보여드릴께요<br /><br /><img src="/img/portfolio/github_page.PNG" width="90%"></img><br /><a href=https://www.github.com/teamnerd>page</a><br /><br />아직 별게 없죠? Git을 공부하기 전에 Github page를 좀 둘러보면서 어떤건지 조금은<br />느껴보시고 오셨으면 좋겠습니다. 협업툴을 안써보신 분들은 Git에 굉장히 어려움을<br />겪을 수 있어서 왜 내가 Git을 써야하는지, Git을 쓰면 뭐가 좋을지<br />열의에 가득차서 온다면 포기하지않고 배울 수 있을 거라고 확신합니다!<br />나동빈님의 Git과 Github 설명 페이지를 첨부합니다.<br /><br /><br /><a href=https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81>git</a>
+description: 안녕하세요! Alex 입니다.<br /> 이번 시간에는 Git에 대해 배워보도록 하겠습니다.<br /><br />Github는 조금 보셨나요? 어떠신가요? 아직 어렵게 느껴지시나요? <br />Git을 공부하기 전에 Github page를 좀 둘러보면서<br /> 어떤건지 조금은느껴보시고 오셨으면 좋겠습니다. <br />협업툴을 안써보신 분들은 Git에 굉장히 어려움을<br />겪을 수 있어서 왜 내가 Git을 써야하는지, Git을 쓰면 뭐가 좋을지<br />열의에 가득차서 온다면 포기하지않고 배울 수 있을 거라고 확신합니다!<br />협업툴 배우는게 너무 어려우시면 천천히 하면서 팀에 적응 하는 것도 <br />나쁘지 않은 방법입니다. 뭐든 포기만 하지 않으면 됩니다. 화이팅입니다!<br />나동빈님의 Git과 Github 설명 페이지를 첨부합니다.<br /><br /><a href=https://www.youtube.com/playlist?list=PLRx0vPvlEmdD5FLIdwTM4mKBgyjv4no81>git</a>
 ---
